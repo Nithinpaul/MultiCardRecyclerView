@@ -8,7 +8,7 @@ import android.widget.Button;
 import android.widget.TextView;
 
 /**
- * Created by nithin on 10/7/2016.
+ * Created by nithin
  */
 
 public class myCustomAdapter extends RecyclerView.Adapter<myCustomAdapter.ViewHolder> {
